@@ -15,5 +15,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hehehehehe");
         System.out.println("llasldfsadf");
         getPackageName().equals("");
+        System.out.println("llasldfsadf");
+        getPackageName().equals("");
+        System.out.println("asdfsdafasdfasdfsdf");
+        System.out.println("lololio");
+        System.out.println("lolololoasdfsdfasfasdf");
     }
 }
