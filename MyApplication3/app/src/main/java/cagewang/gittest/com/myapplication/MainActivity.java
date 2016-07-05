@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = new TextView(this);
         System.out.println("哈哈哈");
         System.out.println("hehehehehe");
+        System.out.println("llasldfsadf");
+        getPackageName().equals("");
     }
 }
